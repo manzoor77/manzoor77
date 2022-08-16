@@ -35,9 +35,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzoor77&label=Profile%20views&color=0e75b6&style=flat" alt="manzoor77" /> </p>
 
-## Muhammad Zaryab Rafique's Github Stats
+## Muhammad Manzoor Faisal's Github Stats
 
-<span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=manzoor77&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Manzoor's github stats](https://github-readme-stats.vercel.app/api?username=manzoor77&theme=tokyonight&show_icons=true&count_private=true) </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor77&theme=tokyonight)</span>
 
 
